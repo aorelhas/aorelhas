@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <br />
 
 [website]: https://carlosorelhas.com
-[linkedin]: www.linkedin.com/in/carlosorelhas
+[linkedin]: https://linkedin.com/in/carlosorelhas/
 [instagram]: https://www.instagram.com/carlosodev/
 [twitter]: https://twitter.com/Carlos_Orelhas
