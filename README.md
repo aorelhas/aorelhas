@@ -6,8 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django and microservices
 - 👯  2021 Goals: Contribute more to Open Source projects
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="carlosorelhas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -15,6 +13,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="carlosOrelhas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="carlosOrelhas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br />
 <br />
 
 📊 **This week I spent my time on**
