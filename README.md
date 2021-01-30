@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="carlosOrelhas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="carlosOrelhas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="carlosOrelhas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="carlosOrelhas | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
 
 <br />
 <br />
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/carlosorelhas/
 [instagram]: https://www.instagram.com/carlosodev/
 [twitter]: https://twitter.com/Carlos_Orelhas
+[youtube]: https://www.youtube.com/channel/UC9YMTttfFZsvMdz0Ml7JpuA
 
 ### My daily Tools & Languages
 
