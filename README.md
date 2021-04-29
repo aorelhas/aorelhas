@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Orelhas</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/carlos_orelhas" target="blank"><img src="https://img.shields.io/twitter/follow/carlos_orelhas?logo=twitter&style=for-the-badge" alt="carlos_orelhas" /></a> </p>
 
