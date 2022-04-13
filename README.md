@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/carlos_orelhas" target="blank"><img src="https://img.shields.io/twitter/follow/carlos_orelhas?logo=twitter&style=for-the-badge" alt="carlos_orelhas" /></a> </p>
 
-- 🔭 I’m currently working on **KUBPT & Stolen Bikes**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Django and Microservices**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [www.carlosorelhas.com](www.carlosorelhas.com)
 
