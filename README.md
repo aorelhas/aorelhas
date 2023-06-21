@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [www.carlosorelhas.com](www.carlosorelhas.com)
 
