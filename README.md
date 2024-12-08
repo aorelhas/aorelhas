@@ -17,7 +17,7 @@
 
 ### About Me
 
-- 🌱 **Currently Working On:** Building robust backend solutions at **turbobackend**.
+- 🌱 **Currently Working On:** Building robust backend solutions at [**turbobackend**](https://www.turbobackend.com).
 - 🎯 **Focus Areas:** Scalable architectures, microservices, and cloud-native applications.
 - 🗺️ **Tech Philosophy:** Combine solid engineering principles with modern frameworks to deliver clean, maintainable, and well-tested code.
 
@@ -35,6 +35,7 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo (React Native)" width="40" height="40"/>
 </p>
 
 ---
