@@ -1,4 +1,4 @@
-<!-- Optional Banner Image -->
+ <!-- Optional Banner Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/aorelhas/aorelhas/master/images/bg.png" alt="Galactic Banner" />
 </p>
